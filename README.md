@@ -1,10 +1,4 @@
 # Dissertation-Repo
 
-PREREQUISITES:
-1.	run python install -r requirements.txt
-2.	Generate AlphaVantage API key using the link: https://www.alphavantage.co/
-3.	Generate Twitter API key using https://developer.twitter.com/apps
+![image](https://user-images.githubusercontent.com/73694294/131031827-b5cc6cab-2307-4095-8e36-028bfac48d74.png)
 
-CODE EXECUTION ADVICE:
-1.	Due to the technical limitations, it is advisable to execute the code only once in a minute.
-2.	Execute the code using Jupyter Notebook to avoid graph popups.
